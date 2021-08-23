@@ -1,0 +1,5 @@
+There are a few differences:
+for is shorter than while
+the variable declared in the for loop is visible only inside the loop
+the while loop is shorter
+
